@@ -1,11 +1,20 @@
-# Sample Snack app
+# Социальная сеть
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Цель работы
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+В этом работе мы создадим приложение для социальной сети. 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Задания для выполнения
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+Используйте созданный проект, https://github.com/Minte-grace/React-Native-Pic-Stack-UI
+разверните его у себя и ознакомьтесь с кодом.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Замените стиль и картинки, адаптируйте интерфейс под русский язык, добавьте постов, например:
+
+Добавьте кнопки https://docs.expo.dev/versions/v43.0.0/react-native/share/#reference для картинок.
+
+Поделитесь ссылкой на проект в Expo. Загрузить созданное приложение на на GitHub в репозиторий Student, используя формат в названии Фамилия (латинскими буквами)_11.
+
+## Готовая работа:
+
+<img src = "https://user-images.githubusercontent.com/70855182/166158121-e46d2cfe-701f-4dad-90bc-6da76e898d2a.gif" width="270" height="600" />
